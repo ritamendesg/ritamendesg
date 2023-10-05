@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritamendesg
-- 👀 I’m interested in Design and front-end development
+- 👀 I’m interested in design and front-end development
 - 🌱 I’m currently learning Web Development at Le Wagon
 - 📫 How to reach me ritamendesgoncalves@gmail.com
 
